@@ -14,3 +14,5 @@ run_stablelm_with_nomad.sh
 
 # Ignore _archived dir and its contents
 _archived/
+/experiments/__pycache__
+/data
