@@ -16,3 +16,5 @@ run_stablelm_with_nomad.sh
 _archived/
 /experiments/__pycache__
 /data
+longbench_out/
+__pycache__/
